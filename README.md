@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-  <img alt="Demo do todoList" title="#todoList" src="https://github.com/Anderson-Andre-P/cloneYoutube/blob/main/img/YoutubeClone.png">
+  <img alt="Demo do todoList" title="#todoList" src="https://github.com/Anderson-Andre-P/todoList/blob/main/todoList.png">
 </h2>
 
 ### Features
